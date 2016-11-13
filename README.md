@@ -26,4 +26,4 @@ Alphasense CO-B4, SO2-B4, NO-B4, NO2-B42F, OX-B421
 
 Shinyei PPD42NS Dust sensor
 
-# Wiring connections are written in the software.
+Wiring connections are written in the software. Copyright ownership belongs to XY Pei, aerosol_research@163.com

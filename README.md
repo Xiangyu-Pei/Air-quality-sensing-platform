@@ -1,4 +1,4 @@
-# Air quality sensing platform
+# Air quality sensing platform v 1.0.0
 # Software:
 PersonalEnvironInst_GPS_BT_Air.ino 
 

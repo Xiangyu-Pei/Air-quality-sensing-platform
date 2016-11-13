@@ -1,4 +1,4 @@
-# Copyright ownership belongs to XY Pei, aerosol_research@163.com
+// Copyright ownership belongs to XY Pei, aerosol_research@163.com
 
 #include <DHT.h>
 #include <SPI.h>

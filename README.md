@@ -9,14 +9,14 @@ Arduino Mega 2560 Rev3
 # Data storage, transmission
 MicroSD card breakout board+: https://www.adafruit.com/product/254
 
+Monochrome 1.3" 128x64 OLED graphic display: https://www.adafruit.com/product/938
+
 Blutooth module HC-06
 
-Monochrome 1.3" 128x64 OLED graphic display
-
 # Time, GPS, RH&T
-DS1307 Real Time Clock breakout board kit
+DS1307 Real Time Clock breakout board kit: https://www.adafruit.com/product/264
 
-Adafruit Ultimate GPS Breakout
+Adafruit Ultimate GPS Breakout: https://www.adafruit.com/product/746
 
 DHT22 RH&T sensor
 

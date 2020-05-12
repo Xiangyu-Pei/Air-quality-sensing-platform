@@ -11,7 +11,7 @@ MicroSD card breakout board+: https://www.adafruit.com/product/254
 
 Monochrome 1.3" 128x64 OLED graphic display: https://www.adafruit.com/product/938
 
-Blutooth module HC-06
+Bluetooth module HC-06
 
 # Time, GPS, RH&T
 DS1307 Real Time Clock breakout board kit: https://www.adafruit.com/product/264

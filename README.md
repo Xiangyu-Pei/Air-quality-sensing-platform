@@ -7,7 +7,7 @@ PersonalEnvironInst_GPS_BT_Air.ino
 Arduino Mega 2560 Rev3
 
 # Data storage, transmission
-MicroSD card breakout board+
+MicroSD card breakout board+: https://www.adafruit.com/product/254
 
 Blutooth module HC-06
 
